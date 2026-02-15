@@ -1,9 +1,9 @@
-# Dialo (Déjalo)-AI-Digital-Guardian-for-Bharat
+# (Déjalo)-AI-Digital-Guardian-for-Bharat
 ## Wearable-First AI Digital Guardian for Mental Health
 
 > Preventing emotional crises before they happen.
 
-Dialo is a wearable-first, multimodal AI system designed to detect emotional stress escalation in real time, predict crisis risk, and intelligently intervene before breakdown occurs.
+Déjalo is a wearable-first, multimodal AI system designed to detect emotional stress escalation in real time, predict crisis risk, and intelligently intervene before breakdown occurs.
 
 It combines biometric sensing, edge AI, cloud-based multimodal modeling, and a personalized behavioral digital twin to create a preventive mental health protection system — especially for rural and underserved communities.
 
@@ -30,8 +30,7 @@ There is no unified system that continuously monitors, predicts, and mediates em
 ---
 
 ## 💡 Solution
-
-Dialo introduces a wearable-first AI guardian that:
+Déjalo introduces a wearable-first AI guardian that:
 
 - Monitors voice biomarkers, HRV, and motion signals
 - Detects stress escalation in <2 seconds
